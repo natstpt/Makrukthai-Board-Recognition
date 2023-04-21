@@ -4,6 +4,18 @@
 
 This project uses the OpenCV library for image processing to recognize a Makruk (Thai chess) board and output its position in FEN (Forsyth-Edwards Notation) format. It detects the pieces on the board using template matching and displays the detected pieces with rectangles around them.
 
+## Table of Contents
+
+- [Dependencies](#dependencies)
+- [How to Build and Run](#how-to-build-and-run)
+  - [Install OpenCV](#install-openCV)
+  - [Create a Visual Studio Project](#create-a-visual-studio-project)
+  - [Configure the Project for OpenCV](#configure-the-project-for-opencv)
+  - [Add the Source Code](#add-the-source-code)
+  - [Build and Run the Program](#build-and-run-the-program)
+- [Project Structure](#project Structure)
+- [Acknowledgments](#acknowledgments)
+
 ## Dependencies
 
 - OpenCV (version 4.7.0)
@@ -50,3 +62,9 @@ This project uses the OpenCV library for image processing to recognize a Makruk 
 ## Project Structure
 
 - `main.cpp`: The main program containing
+
+## Acknowledgments
+
+I would like to express our gratitude to the following resources:
+
+1. **Pieces image**: The piece images used in this project are sourced from [PlayOK](https://www.playok.com/th/makruk/).
