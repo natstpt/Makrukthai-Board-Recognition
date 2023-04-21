@@ -116,7 +116,7 @@ int main() {
 
     // Use OpenCV to read the makrukthai board image
     Mat image, image_gray;
-    image = imread("testimages/makrukthai2.png", IMREAD_COLOR);
+    image = imread("testimages/makrukthai1.png", IMREAD_COLOR);
     cvtColor(image, image_gray, COLOR_BGR2GRAY);
 
     // Define the makrukthai pieces templates
