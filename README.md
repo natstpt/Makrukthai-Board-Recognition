@@ -13,7 +13,7 @@ This project uses the OpenCV library for image processing to recognize a Makruk 
   - [Configure the Project for OpenCV](#configure-the-project-for-opencv)
   - [Add the Source Code](#add-the-source-code)
   - [Build and Run the Program](#build-and-run-the-program)
-- [Project Structure](#project Structure)
+- [Project Structure](#project-structure)
 - [Acknowledgments](#acknowledgments)
 
 ## Dependencies
