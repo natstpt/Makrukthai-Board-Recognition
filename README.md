@@ -1,5 +1,7 @@
 # Makruk Board Recognition
 
+![Makruk Board Recognition Screenshot](https://raw.githubusercontent.com/natstpt/Makrukthai-Board-Recognition/main/screencapture1.png)
+
 This project uses the OpenCV library for image processing to recognize a Makruk (Thai chess) board and output its position in FEN (Forsyth-Edwards Notation) format. It detects the pieces on the board using template matching and displays the detected pieces with rectangles around them.
 
 ## Dependencies
