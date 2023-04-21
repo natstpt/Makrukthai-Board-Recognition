@@ -6,7 +6,7 @@ This project uses the OpenCV library for image processing to recognize a Makruk 
 
 ## Dependencies
 
-- OpenCV (version 4.7)
+- OpenCV (version 4.7.0)
 - Visual Studio 2022
 - Windows OS
 
