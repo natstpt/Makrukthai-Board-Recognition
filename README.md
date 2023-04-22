@@ -65,6 +65,8 @@ For example: makrukthai image in start position
 Choose your color: (w)hite or (b)lack? (w/b): w
 ```
 
+Output: FEN format
+
 ```bash
 FEN: rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w
 ```
