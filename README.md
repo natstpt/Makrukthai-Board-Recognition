@@ -14,7 +14,6 @@ This project uses the OpenCV library for image processing to recognize a Makruk 
   - [Add the Source Code](#add-the-source-code)
   - [Build and Run the Program](#build-and-run-the-program)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -78,10 +77,6 @@ FEN: rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w
 - `main.cpp`: The main program containing
 - `extractimages` :  Directory for storage The pieces on the board image for using template matching.
 - `testimages` : Directory for storage The pieces on the board image where you want to detected.
-
-## Contributing
-
-Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
 
 ## License
 
