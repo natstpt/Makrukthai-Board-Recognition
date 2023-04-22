@@ -59,6 +59,16 @@ This project uses the OpenCV library for image processing to recognize a Makruk 
 4. The program will load an image of the Makruk board (`testimages/makrukthai1.png`) and analyze it.
 5. The detected board position will be output in FEN format, and an image with rectangles around the detected pieces will be displayed.
 
+For example: makrukthai image in start position
+
+```bash
+Choose your color: (w)hite or (b)lack? (w/b): w
+```
+
+```bash
+FEN: rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w
+```
+
 ## Project Structure
 
 - `main.cpp`: The main program containing
