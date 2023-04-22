@@ -77,6 +77,14 @@ FEN: rnsmksnr/8/pppppppp/8/8/PPPPPPPP/8/RNSKMSNR w
 - `extractimages` :  Directory for storage The pieces on the board image for using template matching.
 - `testimages` : Directory for storage The pieces on the board image where you want to detected.
 
+## Contributing
+
+Contributions are welcome! If you have any ideas or suggestions for improvements, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## Acknowledgments
 
 I would like to express our gratitude to the following resources:
